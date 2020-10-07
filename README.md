@@ -56,11 +56,4 @@ O desafio proposto foi desenvolver uma aplicação de gestão de restaurantes, e
 ## ㊗️ Considerações 
 - Projeto desenvolvido no Bootcamp - GoStack da [RocketSeat](https://rocketseat.com.br/ "RocketSeat")  by:
 
-  - <a href="https://github.com/rafaelsanzio">
-    <img src="https://img.shields.io/badge/-Rafael%20Sanzio-000000?style=flat&logo=GitHub&logoColor=#000000" />
-  </a>
-
-  - <a href="https://www.linkedin.com/in/rafael-sanzio-012778143/">
-    <img src="https://img.shields.io/badge/-Rafael%20Sanzio-0077B5?style=flat&logo=LinkedIN&logoColor=#000000" />
-  </a>
 
